@@ -15,6 +15,8 @@ Run XQuartz
 Start XQuartz from command line using open -a XQuartz. In the XQuartz preferences, go to the “Security” tab and make sure you’ve got “Allow connections from network clients” ticked:
 ![XQuartz Preferences](https://sourabhbajaj.com/images/blog/2017-02/xquartz_preferences.png)
 
+NOTE: You have to restart the XQuartz application after modifying its preferences
+
 ## Usage
 
 ```
